@@ -1,0 +1,3 @@
+# READ.ME - Chapter 2 DM and Biz Analytics in R
+
+Lots of different plots with lattice package using 2006 Birth Data from nutshell package
